@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOornNS6vyU6gZGGnAY1j7lCK64SAhQkYnmvbWJ17K1HfpigzQ9L908CReBBQUro484Ed3gRt46Jm5mId+mSxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hiba\\Desktop\\Hiba\\esprit 4twin3\\S2\\DotNet\\GestionEquipe\\GE.Domain\\GE.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hiba\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
